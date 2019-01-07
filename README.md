@@ -13,3 +13,5 @@ In order for this Batch file to work you need to have the following set up on yo
 The following link will give you information on streaming content using OBS
 
 [Streaming with OBS](https://www.windowscentral.com/beginners-guide-obs)
+
+Make sure to change  the mention of  ```C:\Saturday TV\``` in the batch file to the folder where the videos you whish to play or stream are located. 
