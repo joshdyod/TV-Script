@@ -8,7 +8,7 @@ In order for this Batch file to work you need to have the following set up on yo
 
 3. Run this Batch file. 
 
-4. If you would like to stream the file contents of your folder to Twitch or Youtube recommend 
+4. If you would like to stream the file contents of your folder to Twitch or Youtube I recommend 
 
 [Downloading OBS](https://obsproject.com/download)
 
