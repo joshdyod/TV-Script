@@ -5,6 +5,7 @@ In order for this Batch file to work you need to have the following set up on yo
 1. A Folder with multiple video content in it.
 2. VLC downloaded on your PC 
 [Download VLC](https://www.videolan.org/vlc/download-windows.html)
+
 3. Run this Batch file. 
 If you would like to stream the file contents of your folder to Twitch or Youtube recommend downloading OBS  
 [Download OBS](https://obsproject.com/download)
