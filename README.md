@@ -7,7 +7,8 @@ In order for this Batch file to work you need to have the following set up on yo
 [Download VLC](https://www.videolan.org/vlc/download-windows.html)
 
 3. Run this Batch file. 
-If you would like to stream the file contents of your folder to Twitch or Youtube recommend 
+
+4. If you would like to stream the file contents of your folder to Twitch or Youtube recommend 
 [Downloading OBS](https://obsproject.com/download)
 
 The following link will give you information on streaming content using OBS
